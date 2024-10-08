@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+
 st.title('Análise de Casas para Aluguel no Brasil')
 
 # Função para carregar dados a partir de um arquivo CSV carregado
